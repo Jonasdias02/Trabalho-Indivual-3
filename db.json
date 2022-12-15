@@ -1,0 +1,56 @@
+{
+"carnes": [
+    {
+      "id": 1,
+      "peça": "Picanha"
+    },
+    {
+        "id": 2,
+        "peça": "Bife Ancho"
+    },
+    {
+        "id": 3,
+        "peça": "Costela"
+    },
+    {
+        "id": 4,
+        "peça": "Chorizo"
+    }
+],
+"acompanhamentos": [
+    {
+    "id": 1,
+    "Opção": "Farofa de cria"
+    },
+    {
+      "id": 2,
+      "Opção": "Queijo coalho"
+    },
+    {
+      "id": 3,
+      "Opção": "Vinagrete"
+    },
+    {
+      "id": 4,
+      "Opção": "Anéis de cebola"
+    }
+],
+"bebidas": [
+    {
+    "id": 1,
+    "bebida": "Refrigerantes"
+    },
+    {
+      "id": 2,
+      "bebida": "Cervejas"
+    },
+    {
+      "id": 3,
+      "bebida": "Sucos"
+    },
+    {
+      "id": 4,
+      "bebida": "Destilados"
+    }
+]
+}
