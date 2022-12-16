@@ -2,23 +2,33 @@
 "carnes": [
     {
       "id": 1,
-      "peça": "Picanha"
+      "peça": "Picanha",
+      "descrição": "A Picanha é o mais querido corte brasileiro, quase um sinônimo de churrasco.",
+      "corte": "É retirada da parte superior da alcatra."
     },
     {
       "id": 2,
-      "peça": "Bife Ancho"
+      "peça": "Bife Ancho",
+      "descrição": "O Bife Ancho é um corte nobre de origem portenha.",
+      "corte": "Retirado da parte dianteira do contrafilé."
     },
     {
       "id": 3,
-      "peça": "Costela"
+      "peça": "Costela 6 Sabores",
+      "descrição": "a Costela 6 Sabores é assada lentamente, com as ripas de ossos e muita gordura.",
+      "corte": "Corte típico da região Sul do Brasil."
     },
     {
       "id": 4,
-      "peça": "Chorizo"
+      "peça": "Chorizo",
+      "descrição": "Faz parte do contrafilé, como o Bife Ancho, mas localizado ao centro da peça.",
+      "corte": " É um corte nobre tradicional da Argentina."
     },
     {
       "id": 5,
-      "peça": "Linguiça Toscana"
+      "peça": "Shoulder Steak",
+      "descrição": "É uma das mais macias, mesmo quando bem passada.",
+      "corte": " O Shouder Steak é extraído do dianteiro do boi."
     }
 ],
 "acompanhamentos": [
