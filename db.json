@@ -64,5 +64,28 @@
       "id": 5,
       "bebida": "Vinhos"
     }
-]
+
+  ],
+  "sobremesas": [
+      {
+        "id": 1,
+        "sobremesa": "Romeu e Julieta"
+      },
+      {
+        "id": 2,
+        "sobremesa": "Brownie"
+      },
+      {
+        "id": 3,
+        "sobremesa": "Petit Gateau"
+      },
+      {
+        "id": 4,
+        "sobremesa": "Sorvete"
+      },
+      {
+        "id": 5,
+        "sobremesa": "Semifreddo"
+      }
+  ]
 }
