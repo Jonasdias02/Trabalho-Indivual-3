@@ -5,40 +5,48 @@
       "peça": "Picanha"
     },
     {
-        "id": 2,
-        "peça": "Bife Ancho"
+      "id": 2,
+      "peça": "Bife Ancho"
     },
     {
-        "id": 3,
-        "peça": "Costela"
+      "id": 3,
+      "peça": "Costela"
     },
     {
-        "id": 4,
-        "peça": "Chorizo"
+      "id": 4,
+      "peça": "Chorizo"
+    },
+    {
+      "id": 5,
+      "peça": "Linguiça Toscana"
     }
 ],
 "acompanhamentos": [
     {
-    "id": 1,
-    "Opção": "Farofa de cria"
+      "id": 1,
+      "Opção": "Arroz Piamontese"
     },
     {
       "id": 2,
-      "Opção": "Queijo coalho"
+      "Opção": "Farofa de cria"
     },
     {
       "id": 3,
-      "Opção": "Vinagrete"
+      "Opção": "Queijo coalho"
     },
     {
       "id": 4,
-      "Opção": "Anéis de cebola"
+      "Opção": "Vinagrete"
+    },
+    {
+      "id": 5,
+      "Opção": "Maionese de Legumes"
     }
 ],
 "bebidas": [
     {
-    "id": 1,
-    "bebida": "Refrigerantes"
+      "id": 1,
+      "bebida": "Refrigerante"
     },
     {
       "id": 2,
@@ -51,6 +59,10 @@
     {
       "id": 4,
       "bebida": "Destilados"
+    },
+    {
+      "id": 5,
+      "bebida": "Vinhos"
     }
 ]
 }
