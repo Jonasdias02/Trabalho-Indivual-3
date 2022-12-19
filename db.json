@@ -36,6 +36,7 @@
     "preço": "R$:95,99"
   }
 ],
+
 "acompanhamentos": [
   {
     "id": 1,
@@ -58,6 +59,7 @@
     "Opção": "Maionese de Legumes"
   }
 ],
+
 "bebidas": [
   {
     "id": 1,
@@ -79,40 +81,40 @@
     "id": 5,
     "bebida": "Vinhos"
   }
+],
 
-  ],
-  "sobremesas": [
-    {
-      "id": 1,
-      "sobremesa": "Romeu e Julieta"
-    },
-    {
-      "id": 2,
-      "sobremesa": "Brownie"
-    },
-    {
-      "id": 3,
-      "sobremesa": "Petit Gateau"
-    },
-    {
-      "id": 4,
-      "sobremesa": "Sorvete"
-    },
-    {
-      "id": 5,
-      "sobremesa": "Semifreddo"
-    }   
-  ],
+"sobremesas": [
+  {
+    "id": 1,
+    "sobremesa": "Romeu e Julieta"
+  },
+  {
+    "id": 2,
+    "sobremesa": "Brownie"
+  },
+  {
+    "id": 3,
+    "sobremesa": "Petit Gateau"
+  },
+  {
+    "id": 4,
+    "sobremesa": "Sorvete"
+  },
+  {
+    "id": 5,
+    "sobremesa": "Semifreddo"
+  }   
+],
       
-    "status": [
-    {"id": 1,
-      "tipo": "Solicitado"
-    },
-    {"id": 2,
-      "tipo": "Em produção"
-    },
-    {"id": 3,
-      "tipo": "Finalizado"
-    }
-  ]
+"status": [
+  {"id": 1,
+    "tipo": "Solicitado"
+  },
+  {"id": 2,
+    "tipo": "Em produção"
+  },
+  {"id": 3,
+    "tipo": "Finalizado"
+  }
+]
 }
