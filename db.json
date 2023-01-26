@@ -127,7 +127,8 @@
   },
   {"id": 3,
     "tipo": "Finalizado"
-  },
+  }
+ ],
     
     "feed": [
   {"id": 1,
@@ -138,7 +139,8 @@
   },
   {"id": 3,
     "tipo": "Finalizado"
-  },
+  }
+],
 
 "lermais": [
   {"id": 1,
@@ -150,7 +152,5 @@
   {"id": 3,
     "tipo": "Finalizado"
   }
-]
-]
 ]
 }
