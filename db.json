@@ -116,5 +116,41 @@
   {"id": 3,
     "tipo": "Finalizado"
   }
+],
+  
+  "post": [
+  {"id": 1,
+    "tipo": "Solicitado"
+  },
+  {"id": 2,
+    "tipo": "Em produção"
+  },
+  {"id": 3,
+    "tipo": "Finalizado"
+  },
+    
+    "feed": [
+  {"id": 1,
+    "tipo": "Solicitado"
+  },
+  {"id": 2,
+    "tipo": "Em produção"
+  },
+  {"id": 3,
+    "tipo": "Finalizado"
+  },
+
+"lermais": [
+  {"id": 1,
+    "tipo": "Solicitado"
+  },
+  {"id": 2,
+    "tipo": "Em produção"
+  },
+  {"id": 3,
+    "tipo": "Finalizado"
+  }
+]
+]
 ]
 }
