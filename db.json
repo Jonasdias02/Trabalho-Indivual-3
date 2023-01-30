@@ -1,4 +1,4 @@
-const cardapio = [
+
 {
 "carnes": [
   {
@@ -106,4 +106,3 @@ const cardapio = [
     "sobremesa": "Semifreddo"
   }   
 ]}
-];
