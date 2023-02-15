@@ -1,233 +1,213 @@
 
-{
+
 "carnes": [
-  {
-     id: "01",
-     title: "Picanha",
-     price: "199.99",
-     image01: product_01_image_01,
-     image02: product_01_image_02,
-     image03: product_01_image_03,
-     category: "Carne",
-    
-     desc: "A Picanha é o mais querido corte brasileiro, quase um sinônimo de churrasco. É retirada da parte superior da alcatra.",
-  },
-  {
-    id: "02",
-     title: "Bife Ancho",
-     price: "190,99",
-     image01: product_02_image_01,
-     image02: product_02_image_02,
-     image03: product_02_image_03,
-     category: "Carne",
-    
-     desc: "O Bife Ancho é um corte nobre de origem portenha. Retirado da parte dianteira do contrafilé.",
-  },
-  {
-     id: "03",
-     title: "Costela 6 Sabores",
-     price: "199.99",
-     image01: product_03_image_01,
-     image02: product_03_image_02,
-     image03: product_03_image_03,
-     category: "Carne",
-    
-     desc: "A Costela 6 Sabores é assada lentamente, com as ripas de ossos e muita gordura. Corte típico da região Sul do Brasil.",
-  },
-  {
-     id: "04",
-     title: "Chorizo",
-     price: "199.99",
-     image01: product_04_image_01,
-     image02: product_04_image_02,
-     image03: product_04_image_03,
-     category: "Carne",
-    
-     desc: "Faz parte do contrafilé, como o Bife Ancho, mas localizado ao centro da peça. É um corte nobre tradicional da Argentina.",
-  },
-  {
-    id: "05",
-     title: "Shoulder Steak",
-     price: "199.99",
-     image01: product_05_image_01,
-     image02: product_05_image_02,
-     image03: product_05_image_03,
-     category: "Carne",
-    
-     desc: "O Shouder Steak é extraído do dianteiro do boi.",
-  }
+     {
+         id: "01",
+         title: "Picanha",
+         price: "199.99",
+         image01:  product_01_carne_01,
+         category: "Carne",
+        
+         desc: "A Picanha é o mais querido corte brasileiro, quase um sinônimo de churrasco. É retirada da parte superior da alcatra.",
+      },
+      {
+        id: "02",
+         title: "Cupim",
+         price: "190,99",
+         image01:  product_01_carne_02,
+
+         category: "Carne",
+        
+         desc: "O cupim.",
+      },
+      {
+         id: "03",
+         title: "Costela",
+         price: "199.99",
+         image01:  product_01_carne_03,
+      
+         category: "Carne",
+        
+         desc: "A Costela é assada lentamente, com as ripas de ossos e muita gordura. Corte típico da região Sul do Brasil.",
+      },
+      {
+         id: "04",
+         title: "Linguiça Mineira",
+         price: "199.99",
+         image01:  product_01_carne_04,
+      
+         category: "Carne",
+        
+         desc: ".",
+      },
+      {
+        id: "05",
+         title: "Fillet",
+         price: "199.99",
+         image01:   product_01_carne_05,
+ 
+         category: "Carne",
+        
+         desc: ".",
+      },
 ],
 
 "acompanhamento": [
   {
-   id: "01",
-     title: "Arroz Piamontese",
-     price: "199.99",
-     image01: product_01_image_01,
-     image02: product_01_image_02,
-     image03: product_01_image_03,
-     category: "Acompanhamento",
-    
-     desc: ".",
-  },
-  {
-   id: "02",
-     title: "Farofa",
-     price: "199.99",
-     image01: product_02_image_01,
-     image02: product_02_image_02,
-     image03: product_02_image_03,
-     category: "Acompanhamento",
-    
-     desc: ".",
-  },
-  {
-    id: "03",
-     title: "Queijo Coalho",
-     price: "199.99",
-     image01: product_03_image_01,
-     image02: product_03_image_02,
-     image03: product_03_image_03,
-     category: "Acompanhamento",
-    
-     desc: ".",
-  },
-  {
-    id: "04",
-     title: "Vinagrete",
-     price: "199.99",
-     image01: product_04_image_01,
-     image02: product_04_image_02,
-     image03: product_04_image_03,
-     category: "Acompanhamento",
-    
-     desc: ".",
-  },
-  {
-    id: "05",
-     title: "Maionese de Legumes",
-     price: "199.99",
-     image01: product_05_image_01,
-     image02: product_05_image_02,
-     image03: product_05_image_03,
-     category: "Acompanhamento",
-    
-     desc: ".",
-  }
+         id: "01",
+           title: "Arroz Piamontese",
+           price: "199.99",
+           image01: product_01_image_01,
+         
+           category: "Acompanhamento",
+          
+           desc: ".",
+        },
+        {
+         id: "02",
+           title: "Farofa",
+           price: "199.99",
+           image01: product_02_image_01,
+        
+           category: "Acompanhamento",
+          
+           desc: ".",
+        },
+        {
+          id: "03",
+           title: "Queijo Coalho",
+           price: "199.99",
+           image01: product_03_image_01,
+        
+           category: "Acompanhamento",
+          
+           desc: ".",
+        },
+        {
+          id: "04",
+           title: "Vinagrete",
+           price: "199.99",
+           image01: product_04_image_01,
+        
+           category: "Acompanhamento",
+          
+           desc: ".",
+        },
+        {
+          id: "05",
+           title: "Maionese de Legumes",
+           price: "199.99",
+           image01: product_05_image_01,
+       
+           category: "Acompanhamento",
+          
+           desc: ".",
+        },
 ],
 
 "bebida": [
-  {
-    id: "01",
-     title: "Refrigerante",
-     price: "199.99",
-     image01: product_05_image_01,
-     image02: product_05_image_02,
-     image03: product_05_image_03,
-     category: "Bebida",
-    
-     desc: ".",
-  },
-  {
-    id: "02",
-     title: "Cerveja",
-     price: "199.99",
-     image01: product_02_image_01,
-     image02: product_02_image_02,
-     image03: product_02_image_03,
-     category: "Bebida",
-    
-     desc: ".",
-  },
-  {
-    id: "03",
-     title: "Suco",
-     price: "199.99",
-     image01: product_03_image_01,
-     image02: product_03_image_02,
-     image03: product_03_image_03,
-     category: "Bebida",
-    
-     desc: ".",
-  },
-  {
-   id: "04",
-     title: "Destilado",
-     price: "199.99",
-     image01: product_04_image_01,
-     image02: product_04_image_02,
-     image03: product_04_image_03,
-     category: "Bebida",
-    
-     desc: ".",
-  },
-  {
-    id: "05",
-     title: "Vinho",
-     price: "199.99",
-     image01: product_05_image_01,
-     image02: product_05_image_02,
-     image03: product_05_image_03,
-     category: "Bebida",
-    
-     desc: ".",
-  }
-],
+{
+        id: "01",
+         title: "Brahma Duplo Malte",
+         price: "199.99",
+         image01: product_02_bebida_01,
+
+         category: "Bebida",
+        
+         desc: ".",
+      },
+      {
+        id: "02",
+         title: "Budweiser",
+         price: "199.99",
+         image01: product_02_bebida_02,
+         
+         category: "Bebida",
+        
+         desc: ".",
+      },
+      {
+        id: "03",
+         title: "Stella Artois",
+         price: "199.99",
+         image01: product_02_bebida_03,
+         
+         category: "Bebida",
+        
+         desc: ".",
+      },
+      {
+       id: "04",
+         title: "Corona",
+         price: "199.99",
+         image01: product_02_bebida_04,
+         
+         category: "Bebida",
+        
+         desc: ".",
+      },
+      {
+        id: "05",
+         title: "Vinho",
+         price: "199.99",
+         image01:product_02_bebida_05 ,
+         
+         category: "Bebida",
+        
+         desc: ".",
+      },
+  ],
 
 "sobremesa": [
   {
-    id: "01",
-     title: "Sorvete",
-     price: "199.99",
-     image01: product_01_image_01,
-     image02: product_01_image_02,
-     image03: product_01_image_03,
-     category: "sobremesa",
+        id: "01",
+         title: "Bolo de cenoura",
+         price: "199.99",
+         image01: product_04_sobremesa_01,
+      
+         category: "sobremesa",
+        
+         desc: "Bolo superfofinho, coberto de calda cremosa de avelã.",
+      },
+      {
+        id: "02",
+         title: "Brownie",
+         price: "199.99",
+         image01: product_02_image_01,
+      
+         category: "sobremesa",
+        
+         desc: ".",
+      },
+      {
+       id: "03",
+         title: "Petit Gateau",
+         price: "199.99",
+         image01: product_03_image_01,
+      
+         category: "sobremesa",
+        
+         desc: ".",
+      },
+      {
+       id: "04",
+         title: "Pudim de Leite",
+         price: "199.99",
+         image01: product_04_image_01,
+ 
+         category: "sobremesa",
+        
+         desc: ".",
+      },
+      {
+        id: "05",
+         title: "Semi-fredo",
+         price: "199.99",
+         image01: product_05_image_01,
     
-     desc: ".",
-  },
-  {
-    id: "02",
-     title: "Brownie",
-     price: "199.99",
-     image01: product_02_image_01,
-     image02: product_02_image_02,
-     image03: product_02_image_03,
-     category: "sobremesa",
-    
-     desc: ".",
-  },
-  {
-   id: "03",
-     title: "Petit Gateau",
-     price: "199.99",
-     image01: product_03_image_01,
-     image02: product_03_image_02,
-     image03: product_03_image_03,
-     category: "sobremesa",
-    
-     desc: ".",
-  },
-  {
-   id: "04",
-     title: "Pudim de Leite",
-     price: "199.99",
-     image01: product_04_image_01,
-     image02: product_04_image_02,
-     image03: product_04_image_03,
-     category: "sobremesa",
-    
-     desc: ".",
-  },
-  {
-    id: "05",
-     title: "Semi-fredo",
-     price: "199.99",
-     image01: product_05_image_01,
-     image02: product_05_image_02,
-     image03: product_05_image_03,
-     category: "sobremesa",
-    
-     desc: "."
-  }   
-]}
+         category: "sobremesa",
+        
+         desc: ".",
+      }
+]
+
