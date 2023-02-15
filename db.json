@@ -8,7 +8,7 @@
          image01:  product_01_carne_01,
          category: "Carne",
         
-         desc: "A Picanha é o mais querido corte brasileiro, quase um sinônimo de churrasco. É retirada da parte superior da alcatra.",
+         desc: "A Picanha é o mais querido corte brasileiro, quase um sinônimo de churrasco. É retirada da parte superior da alcatra."
       },
       {
         id: "02",
@@ -18,7 +18,7 @@
 
          category: "Carne",
         
-         desc: "O cupim.",
+         desc: "O cupim."
       },
       {
          id: "03",
@@ -28,7 +28,7 @@
       
          category: "Carne",
         
-         desc: "A Costela é assada lentamente, com as ripas de ossos e muita gordura. Corte típico da região Sul do Brasil.",
+         desc: "A Costela é assada lentamente, com as ripas de ossos e muita gordura. Corte típico da região Sul do Brasil."
       },
       {
          id: "04",
@@ -38,7 +38,7 @@
       
          category: "Carne",
         
-         desc: ".",
+         desc: "."
       },
       {
         id: "05",
@@ -48,7 +48,7 @@
  
          category: "Carne",
         
-         desc: ".",
+         desc: "."
       },
 ],
 
@@ -61,7 +61,7 @@
          
            category: "Acompanhamento",
           
-           desc: ".",
+           desc: "."
         },
         {
          id: "02",
@@ -71,7 +71,7 @@
         
            category: "Acompanhamento",
           
-           desc: ".",
+           desc: "."
         },
         {
           id: "03",
@@ -81,7 +81,7 @@
         
            category: "Acompanhamento",
           
-           desc: ".",
+           desc: "."
         },
         {
           id: "04",
@@ -91,7 +91,7 @@
         
            category: "Acompanhamento",
           
-           desc: ".",
+           desc: "."
         },
         {
           id: "05",
@@ -101,7 +101,7 @@
        
            category: "Acompanhamento",
           
-           desc: ".",
+           desc: "."
         },
 ],
 
@@ -114,7 +114,7 @@
 
          category: "Bebida",
         
-         desc: ".",
+         desc: "."
       },
       {
         id: "02",
@@ -124,7 +124,7 @@
          
          category: "Bebida",
         
-         desc: ".",
+         desc: "."
       },
       {
         id: "03",
@@ -144,7 +144,7 @@
          
          category: "Bebida",
         
-         desc: ".",
+         desc: "."
       },
       {
         id: "05",
@@ -154,7 +154,7 @@
          
          category: "Bebida",
         
-         desc: ".",
+         desc: "."
       },
   ],
 }
@@ -168,7 +168,7 @@
       
          category: "sobremesa",
         
-         desc: "Bolo superfofinho, coberto de calda cremosa de avelã.",
+         desc: "Bolo superfofinho, coberto de calda cremosa de avelã."
       },
       {
         id: "02",
@@ -178,7 +178,7 @@
       
          category: "sobremesa",
         
-         desc: ".",
+         desc: "."
       },
       {
        id: "03",
@@ -188,7 +188,7 @@
       
          category: "sobremesa",
         
-         desc: ".",
+         desc: "."
       },
       {
        id: "04",
@@ -198,7 +198,7 @@
  
          category: "sobremesa",
         
-         desc: ".",
+         desc: "."
       },
       {
         id: "05",
