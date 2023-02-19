@@ -93,7 +93,7 @@
  },
  {
     "id": 10,
-    "title": "Vinho",
+    "title": "Heineken",
     "price": 199.99,
     "image01":  "product_02_bebida_05",
 
@@ -193,7 +193,7 @@
  },
  {
     "id": 20,
-    "title": "Semi-fredo",
+    "title": "Waffle",
     "price": 199.99,
     "image01":  "product_04_sobremesa_05",
 
